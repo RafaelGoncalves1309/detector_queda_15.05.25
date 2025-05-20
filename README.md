@@ -1,0 +1,1 @@
+# detector_queda_15.05.25
